@@ -31,6 +31,6 @@ $ grunt server --force
 > Tugas Teknologi Kolaborasi Pengembangan Perangkat Lunak
 > Anggota Kelompok:
 
-> 1. Riswanta Pelawi              : 151113578
+> 1. Riswanta Pelawi              : 151113055
 
 > Find Us @ [Tello]()
