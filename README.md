@@ -16,7 +16,7 @@ $ npm install && bower install
 $ grunt server
 ```
 
-> Jika ketika grunt server ternyata terjadi erro, maka lakukan perintah:
+> Jika ketika grunt server ternyata terjadi error, maka lakukan perintah:
 
 ```bash
 $ grunt server --force
@@ -32,5 +32,6 @@ $ grunt server --force
 > Anggota Kelompok:
 
 > 1. Riswanta Pelawi              : 151113055
+> 2. Martinus Sarumaha		  : 151112394
 
 > Find Us @ [Tello]()
