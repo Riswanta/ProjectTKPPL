@@ -33,5 +33,7 @@ $ grunt server --force
 
 > 1. Riswanta Pelawi              : 151113055
 > 2. Martinus Sarumaha		  : 151112394
-
+> 3. Edrick Tj			  : 151110652
+> 4. Albert Jirwanto		  : 151110130
+> 5. Jeffrey Sumargo		  : 151110237
 > Find Us @ [Tello]()
