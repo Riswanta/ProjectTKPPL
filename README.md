@@ -1,5 +1,5 @@
-# RPL 
-> Pada ProjectTKPPL ini Kami akan membahas tentang RPL.
+# Wireless Charging 
+> Pada ProjectTKPPL ini Kami akan membahas tentang Wireless Charging.
 
 # Cara untuk Melihat slide di Komputer Lokal
 > Jika OS anda Menggunakan Linux, Maka Langsung saja diterminal , lebih aman pakai sudo su, Tapi jika OS Windows perlu bolak balik ganti Shell :V;
@@ -36,4 +36,5 @@ $ grunt server --force
 > 3. Edrick Tj			  : 151110652
 > 4. Albert Jirwanto		  : 151110130
 > 5. Jeffrey Sumargo		  : 151110237
-> Find Us @ [Tello]()
+
+> Find Us @ [Tello](https://trello.com/b/v0rPnP0a/tkppl)
